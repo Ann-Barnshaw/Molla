@@ -1,4 +1,4 @@
-body {}
+
 
 .icon {
     width: 30px;
@@ -69,6 +69,6 @@ span {
     height: 25px;
 }
 footer {
-    background-color: azure;
+    background-color: lightgrey;
     margin-top: 50px;
 }
